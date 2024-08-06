@@ -1,0 +1,9 @@
+{
+  "installDependencies": true,
+  "startCommand": "npx tsx ./autoload.ts",
+  "env": {
+    "NODE_ENV": "development",
+    "NETWORK": "eth-mainnet.alchemyapi.io/v2/_gg7wSSi0KMBsdKnGVfHDueq6xMB9EkC",
+    "TODO": "add any other default config"
+  }
+}
